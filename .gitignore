@@ -1,0 +1,8 @@
+# files
+*.exe
+*.o
+*.txt
+
+# folders
+bin
+.vscode
