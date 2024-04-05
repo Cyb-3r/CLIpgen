@@ -1,14 +1,9 @@
 # CLI Password Generator (CLIPGen)
 
-## Preamble
-
-If this part doesn't interest you, just skip to the Description.
-
-I made this project with the goal of learning to code in C. It is a language that I find pretty interesting due to the fact that if you want, you can build kind of everything with it, and I really like to write code in C overall. I also wanted to learn more about pointers, and this project, despite how simple it may seem, taught me many things about them that I didn't know.
-
 ## Disclaimer
 
-Do NOT use this tool to manage your passwords, it's not safe at all because the generation function uses rand(), I would've liked if this project would be able to be used but sadly I'm not experienced enough to garanty a secure password generation.
+Using this program to generate passwords is not recommended as the generation algorythm is not safe.
+I made this project to learn C, I do not plan on making this usable in the future.
 
 ## Description
 
